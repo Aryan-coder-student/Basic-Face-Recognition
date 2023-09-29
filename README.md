@@ -1,2 +1,2 @@
 # Basic-Face-Recognition
-### Used OpenCV Python 
+Used OpenCV Python 
